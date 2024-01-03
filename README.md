@@ -1,3 +1,16 @@
+## next.js - vercel 배포 테스트
+
+## 시스템 요구사항
+- Node.js 14.16.0 이상
+
+## next 프로젝트 생성
+- create-next-app 명령어 사용, @latest를 추가하여 최신 버전으로 생성함(*최신버전은 Node 18.17.0 이상을 요구함)
+- 명령어 : npx create-next-app@latest
+
+## 프로젝트 개발 서버 시작
+- 명령어 : npm run dev
+
+<!--
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +47,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+-->
